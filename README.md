@@ -5,6 +5,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/91Daysss/Days/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/91Days/91Days/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/91Daysss/Days/output/snake.svg" alt="Snake animation" />
 
 ###
